@@ -6,7 +6,7 @@ This project demonstrates how to host a static website on Amazon S3.
 - [About](#about)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [How to do ?](#how)
+  - [Solution](#solution)
 - [License](#license)
 - [Contact](#contact)
 
@@ -25,5 +25,5 @@ Before you begin, make sure you have the following prerequisites :
 - [AWS Account](https://aws.amazon.com/)
 - [Static website](https://github.com/PratikPatil131/PratikPatil131.github.io.git)
 
-### Installation
+### Solution
 
