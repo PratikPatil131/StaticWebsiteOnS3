@@ -1,6 +1,6 @@
 # Hosting Static Website on AWS S3
 
-This project demonstrates how to host a static website on Amazon S3.
+This project demonstrates how to host a static [website](https://mytestbucketpatik.s3.ap-south-1.amazonaws.com/index.html) on Amazon S3.
 
 ## Table of Contents
 - [About](#about)
@@ -55,9 +55,11 @@ Follow these steps to host your static website on AWS S3:
 
 8. **Done:**
    - Your static website is now hosted on AWS S3.
+   - Click on index.html and copy the Object URL, paste it into browser !!
 
 ## Note
 - Ensure you replace "Your HTML page name" with the actual name of your HTML page.
 - Review AWS S3 pricing and security considerations based on your usage.
+
 
 Feel free to customize the steps based on your specific needs. If you have any questions or encounter issues, refer to the [AWS documentation](https://docs.aws.amazon.com/s3/index.html) for detailed information.
